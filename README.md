@@ -1,6 +1,3 @@
-<p align="center"><a href="https://junggamyeon.github.io"><img width="80%" alt="Hello, I'm Jung." src="./assets/gh-readme-header.png" /></a></p>
-
-<br />
 
 ![Jung Ganmyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungganmyeon&show_icons=true&theme=tokyonight)
 
