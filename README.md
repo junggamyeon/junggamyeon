@@ -1,6 +1,6 @@
-### 💠 Name: Phung Trung Nhan
-### 💠 Nickname: Jung Ganmyeon
-### 💠 Country: Vietnam
+ 💠 Name: Phung Trung Nhan
+ 💠 Nickname: Jung Ganmyeon
+ 💠 Country: Vietnam
 
 ![Jung Ganmyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungganmyeon&show_icons=true&theme=tokyonight)
 
